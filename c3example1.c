@@ -1,4 +1,4 @@
-/* chapter 3 example 1 *
+/* chapter 3 example 1
  * rajkumar, august 2014
  */
 
