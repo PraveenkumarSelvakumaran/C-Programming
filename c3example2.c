@@ -5,8 +5,8 @@
 
 int main ()
 {
-printf ("Programming is fun");
-printf ("\nand programming in C is even more fun"); 
+	printf ("Programming is fun");
+	printf ("\nand programming in C is even more fun"); 
 
-return 0;
+	return 0;
 }
