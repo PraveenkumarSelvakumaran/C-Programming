@@ -1,4 +1,4 @@
-/* chapter 4 exercise 6 polynomial evaluation
+/* chapter 4 exercise 7 polynomial evaluation
  * rajkumar kandasamy
  */
  
@@ -6,11 +6,12 @@
  
  int main()
  {
-	float x = 2.55;
-	float y;
-
-	y = 3 * x * x * x - 5 * x * x + 6;
-	printf("for x = 2.55 y = %f", y);
-
+	float a = 3.31e-8;
+	float b = 2.01e-7;
+	float c = 7.16e-6;
+	float d = 2.01e-8;
+	
+	printf("a * b / (c + d) = %e", a * b / (c + d));
+	
 	return 0;
 }
