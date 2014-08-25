@@ -1,4 +1,4 @@
-/* Simple Program Using Arithmetic Operators
+/* Using the Arithmetic Operators
  * rajkumar kandasamy, 8/25/2014
  */
 #include <stdio.h>
