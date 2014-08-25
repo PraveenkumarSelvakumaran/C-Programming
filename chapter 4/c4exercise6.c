@@ -1,4 +1,4 @@
-/* chapter 4 exercise 4 polynomial evaluation
+/* chapter 4 exercise 6 polynomial evaluation
  * rajkumar kandasamy
  */
  
