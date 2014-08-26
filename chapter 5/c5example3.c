@@ -9,8 +9,8 @@
 	int i;
 	int t = 0;
 	
-	printf(" n		Sum from 1 to n ");
-	printf("\n ---		----------------- ");
+	printf("\n n		Sum from 1 to n ");
+	printf("\n---		--------------- ");
 	for(i = 1;i <= 10; i++)
 	{
 		t = t + i;
