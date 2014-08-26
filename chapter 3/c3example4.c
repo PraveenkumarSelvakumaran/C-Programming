@@ -2,7 +2,7 @@
  * rajkumar, august 2014
  */
 
-#include <stdio.h>
+#include<stdio.h>
 
 int main ()
 {
